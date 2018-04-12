@@ -1,0 +1,18 @@
+Sender
+Recipient
+Subject
+Message
+
+To: CarK
+From: KayK
+New class       
+Test message
+To: All Members
+From: CarK
+All Member Test
+Elena is a wonderful person
+To: All Members
+From: IsaY
+Sent On: Fri, Apr 06, 2018
+test
+test3

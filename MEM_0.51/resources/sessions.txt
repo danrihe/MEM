@@ -1,0 +1,37 @@
+Fri, Apr 20, 2018
+0600
+Boxing
+Carmina Laffin
+1
+Hilaria Mccaul
+false
+Thu, Apr 12, 2018
+0800
+Muay Thai
+Kayleen Koh
+3
+Toshia Vancuren
+true
+Donald Malo
+false
+Hilaria Mccaul
+false
+Thu, Apr 26, 2018
+0900
+Zumba
+Carmina Laffin
+1
+Hilaria Mccaul
+false
+Fri, Apr 20, 2018
+1200
+Swimming
+Isabelle Ying
+1
+Hilaria Mccaul
+false
+Fri, Apr 27, 2018
+1830
+Yoga
+Kayleen Koh
+0
